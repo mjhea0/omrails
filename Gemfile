@@ -21,6 +21,7 @@ gem 'bootstrap-sass', '~> 2.2.2.0'
 
 gem 'jquery-rails'
 gem 'turbolinks'
+gem 'devise'
 
 gem 'jbuilder', '~> 1.2'
 
