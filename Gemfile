@@ -23,6 +23,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'devise'
 gem 'simple_form'
+gem 'protected_attributes'
 
 gem 'jbuilder', '~> 1.2'
 
