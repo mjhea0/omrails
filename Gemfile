@@ -27,6 +27,7 @@ gem 'protected_attributes'
 gem 'jbuilder', '~> 1.2'
 gem 'paperclip', github: 'thoughtbot/paperclip', branch: 'rails-4'
 
+
 group :doc do
   gem 'sdoc', require: false
 end
